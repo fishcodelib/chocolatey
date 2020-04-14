@@ -1,3 +1,4 @@
+$ErrorActionPreference = 'Stop'
 $packageName = 'databasenet'
 $url = 'https://fishcodelib.com/files/DatabaseNet4.zip'
 $unzipLocation = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
