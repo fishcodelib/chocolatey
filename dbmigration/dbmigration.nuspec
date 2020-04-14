@@ -11,7 +11,8 @@
     <projectUrl>https://fishcodelib.com/DBMigration.htm</projectUrl>
     <tags>sqlite sqlce firebird sqlserver azure localdb oracle mysql postgresql db2 informix vertica sybase nuodb teradata access excel foxpro dbase oledb odbc csv sql database transfer migrate vistadb</tags>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://fishcodelib.com/images/dbMigration128.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/fishcodelib/chocolatey/0c4ca710836dfe18ad0a4d7a5570bef9b6e364d0/dbmigration/icons/dbmigration.png</iconUrl>
+    <packageSourceUrl>https://github.com/fishcodelib/chocolatey/tree/master/dbmigration</packageSourceUrl>
     <copyright>2014-2020 fish's dotNET</copyright>
     <docsUrl>https://fishcodelib.com/DBMigration_Features.htm</docsUrl>
     <licenseUrl>https://fishcodelib.com/EULA.htm</licenseUrl>

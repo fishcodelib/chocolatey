@@ -1,3 +1,4 @@
+$ErrorActionPreference = 'Stop'
 $packageName = 'dbmigration'
 $url = 'https://fishcodelib.com/files/DBMigration.zip'
 $unzipLocation = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
