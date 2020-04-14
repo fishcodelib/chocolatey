@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>dbmigration</id>
+    <title>dbMigration .NET</title>
+    <version>12.1.7400.1</version>
+    <authors>fish</authors>
+    <owners>fish</owners>
+    <summary>A universal database migration and sync tool</summary>
+    <description>dbMigration .NET is a simple, easy and intuitive multiple database migration and sync tool, With it you can migrate schema and data between different databases without complicated procedures. Free for non-commercial, All-In-One, Portable, Standalone (No Installation) and Multi-language.</description>
+    <projectUrl>https://fishcodelib.com/DBMigration.htm</projectUrl>
+    <tags>sqlite sqlce firebird sqlserver azure localdb oracle mysql postgresql db2 informix vertica sybase nuodb teradata access excel foxpro dbase oledb odbc csv sql database transfer migrate vistadb</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://fishcodelib.com/images/dbMigration128.png</iconUrl>
+    <copyright>2014-2020 fish's dotNET</copyright>
+    <docsUrl>https://fishcodelib.com/DBMigration_Features.htm</docsUrl>
+    <licenseUrl>https://fishcodelib.com/EULA.htm</licenseUrl>
+    <releaseNotes>
+			[English](https://translate.google.com/translate?tl=en&amp;sl=zh&amp;hl=en&amp;ie=UTF-8&amp;u=https://fishcodelib.com/DBMigration_new.htm)
+			[Chinese](https://fishcodelib.com/DBMigration_new.htm)
+    </releaseNotes>
+  </metadata>
+</package>

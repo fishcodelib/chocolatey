@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>databasenetpro</id>
+    <title>Database .NET Pro</title>
+    <version>30.1.7400.1</version>
+    <authors>fish</authors>
+    <owners>fish's dotNET</owners>
+    <summary>An Intuitive Multiple Database Manager</summary>
+    <description>This is the trial version of Database .NET. It is an innovative, powerful and intuitive multiple database management tool. With it you can Browse objects, Design tables, Edit rows, Export data and Run queries with a consistent interface. All-In-One, Portable, Standalone (No Installation) and Multi-language.</description>
+    <projectUrl>https://fishcodelib.com/Database.htm</projectUrl>
+    <tags>sqlite sqlce firebird sqlserver azure localdb oracle mysql postgresql db2 informix vertica sybase nuodb teradata access excel odata oledb odbc csv sql database trial vistadb</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://fishcodelib.com/images/128-2.png</iconUrl>
+    <copyright>2006-2020 fish's dotNET</copyright>
+    <docsUrl>https://fishcodelib.com/Database_Features.htm</docsUrl>
+    <licenseUrl>https://fishcodelib.com/EULA.htm</licenseUrl>
+    <releaseNotes>
+			[English](https://translate.google.com/translate?tl=en&amp;sl=zh&amp;hl=en&amp;ie=UTF-8&amp;u=https://fishcodelib.com/Database_new.htm)
+			[Chinese](https://fishcodelib.com/Database_new.htm)
+    </releaseNotes>
+  </metadata>
+</package>
